@@ -65,3 +65,7 @@ Your task it to:
    - Print the total number of movies per genre.
    - Print the average rating for each movie.
    - Print the title of the movie with the highest average rating.
+
+## Results
+
+![results1](https://github.com/Cheos/react-csv-sample/assets/7868189/8c65747a-eb5b-44dc-938f-51e9a91edc58)
